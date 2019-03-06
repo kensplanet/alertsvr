@@ -1,2 +1,2 @@
 # Alerts VR
-My Hackathon project uisng React 360
+My Hackathon project using React 360
