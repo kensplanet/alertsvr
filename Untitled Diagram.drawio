@@ -13,6 +13,9 @@
         <mxCell id="_Xknqcp8Q2KG7VRMnHkf-3" value="Search Autocomplete System" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="348" y="201" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_Xknqcp8Q2KG7VRMnHkf-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Scale&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DAU - 10&lt;sup&gt;8&amp;nbsp;&lt;/sup&gt;&lt;/li&gt;&lt;li&gt;Each user ~ 10 queries/day&lt;/li&gt;&lt;li&gt;Each query ~ 20 bytes ~ 20 requests&lt;/li&gt;&lt;li&gt;QPS = 10&lt;sup&gt;8 &amp;nbsp;&lt;/sup&gt;* 10 * 20 / 10&lt;sup&gt;5 &lt;/sup&gt;= 2 * 10&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="268" width="291" height="131" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
